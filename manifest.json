@@ -4,14 +4,14 @@
   "description": "Uma breve descrição do seu PWA",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/xirpy/hmm/main/1589477067652.jpg",
+      "src": "icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/jpg"
+      "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/xirpy/hmm/main/1589477067652.jpg",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/jpg"
+      "type": "image/png"
     }
   ],
   "start_url": "/",
