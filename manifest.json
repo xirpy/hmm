@@ -19,5 +19,9 @@
   "background_color": "#FFFFFF",
   "theme_color": "#000000",
   "lang": "pt",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "share_target": {
+    "method": "GET"
+  },
+  "scope": "/"
 }
