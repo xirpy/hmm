@@ -52,6 +52,12 @@
       "BISCOITO FUTURINHOS RECHEADO CHOCOLATE 32G",
       "BISCOITO FUTURINHOS RECHEADO MORANGO 32G"
     ],
-    "original": []
+    "original": [
+      "Morango 1,02KG"
+      "Morango c/ Amora 1,02KG",
+      "Morango c/ Frutas Vermelhas 1,02KG",
+      "Acerola 1,02KG",
+      "Blueberry 1,02KG"
+    ]
   }
 }
