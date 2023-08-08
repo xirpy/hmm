@@ -1,20 +1,20 @@
 {
   "assai": {
     "suinco": [
-      "PICANHA TEMPERADA RESFRIADA SUINCO", 
-      "BARRIGA TEMPERADA RESFRIADA SUINCO", 
-      "FRALDINHA TEMPERADA RESFRIADA SUINCO", 
-      "SOBREPALETA TEMPERADO RESFRIADO SUINCO", 
-      "PERNIL TEMPERADO RESFRIADO SUINCO", 
-      "FILE MIGNON TEMPERADO RESFRIADA SUINCO",
-      "LINGUIÇA PETISCO SUINCO", 
-      "ESBEIN JOELHO SUINCO", 
-      "LOMBO TEMPERADO RESFRIADO SUINCO", 
-      "BACON EM CUBOS SUINCO", 
-      "BACON SUINCO", 
-      "BACON FATIADO SUINCO 500G", 
-      "COSTELA TEMPERADA RESFRIADA SUINCO", 
-      "ALCATRA TEMPERADA RESFRIADA SUINCO"
+      "Picanha Temperada Resfriada Suinco",
+      "Barriga Temperada Resfriada Suinco",
+      "Fraldinha Temperada Resfriada Suinco",
+      "Sobrepaleta Temperado Resfriado Suinco",
+      "Pernil Temperado Resfriado Suinco",
+      "File Mignon Temperado Resfriada Suinco",
+      "Linguiça Petisco Suinco",
+      "Esbein Joelho Suinco",
+      "Lombo Temperado Resfriado Suinco",
+      "Bacon Em Cubos Suinco",
+      "Bacon Suinco",
+      "Bacon Fatiado Suinco 500g",
+      "Costela Temperada Resfriada Suinco",
+      "Alcatra Temperada Resfriada Suinco"
     ],
     "original": [
       "Morango 1,02kg",
