@@ -20,6 +20,13 @@
       "Morango 1,02kg",
       "Morango c/ Amora 1,02kg",
       "Morango c/ Frutas Vermelhas 1,02kg"
+    ],
+    "prato": [
+      "Arroz Branco 1kg",
+      "Arroz Branco 5kg",
+      "Arroz Parbolizado 1kg",
+      "Arroz Parbolizado 5kg",
+      "Arroz Integral 1kg"
     ]
   },
   "atacadao": {
