@@ -15,6 +15,11 @@
       "BACON FATIADO SUINCO 500G", 
       "COSTELA TEMPERADA RESFRIADA SUINCO", 
       "ALCATRA TEMPERADA RESFRIADA SUINCO"
+    ],
+    "original": [
+      "Morango 1,02kg",
+      "Morango c/ Amora 1,02kg",
+      "Morango c/ Frutas Vermelhas 1,02kg"
     ]
   },
   "atacadao": {
@@ -68,11 +73,11 @@
       "BISCOITO FUTURINHOS RECHEADO MORANGO 32G"
     ],
     "original": [
-      "Morango 1,02KG",
-      "Morango c/ Amora 1,02KG",
-      "Morango c/ Frutas Vermelhas 1,02KG",
-      "Acerola 1,02KG",
-      "Blueberry 1,02KG"
+      "Morango 1,02kg",
+      "Morango c/ Amora 1,02kg",
+      "Morango c/ Frutas Vermelhas 1,02kg",
+      "Acerola 1,02kg",
+      "Blueberry 1,02kg"
     ]
   }
 }
