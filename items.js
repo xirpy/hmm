@@ -22,7 +22,7 @@
       "Morango c/ Frutas Vermelhas 1,02kg",
       "Acerola 1,02kg"
     ],
-    "prato": [
+    "prato-fino": [
       "Arroz Branco 1kg",
       "Arroz Branco 5kg",
       "Arroz Parbolizado 1kg",
