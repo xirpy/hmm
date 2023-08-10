@@ -1,29 +1,31 @@
 {
-  "name": "Propaga",
-  "short_name": "Propaga",
-  "description": "Uma breve descrição do seu PWA",
-  "icons": [
-    {
-      "src": "icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "/",
-  "display": "fullscreen",
-  "background_color": "#FFFFFF",
-  "theme_color": "#000000",
-  "lang": "pt",
-  "orientation": "portrait",
-  "share_target": {
-    "action": "view",
-    "method": "GET",
-    "enctype": "application/x-www-form-urlencoded"
-  },
-  "scope": "/"
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Propaga",
+    "short_name": "propaga",
+    "icons": [
+        {
+            "src": "https://github.com/xirpy/hmm/blob/main/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://github.com/xirpy/hmm/blob/main/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://github.com/xirpy/hmm/blob/main/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://github.com/xirpy/hmm/blob/main/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
