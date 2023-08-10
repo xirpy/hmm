@@ -21,6 +21,7 @@
   "lang": "pt",
   "orientation": "portrait",
   "share_target": {
+    "action": "share",
     "method": "GET"
   },
   "scope": "/"
