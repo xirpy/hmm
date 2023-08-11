@@ -83,7 +83,6 @@
     "original": [
       "Morango 1,02kg",
       "Morango c/ Amora 1,02kg",
-      "Morango c/ Frutas Vermelhas 1,02kg",
       "Acerola 1,02kg"
     ]
   }
