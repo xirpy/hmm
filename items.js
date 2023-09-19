@@ -1,4 +1,37 @@
 {
+  "guanabara": {
+    "suinco": [
+      "Picanha Temperada Resfriada Suinco",
+      "Barriga Temperada Resfriada Suinco",
+      "Fraldinha Temperada Resfriada Suinco",
+      "Sobrepaleta Temperado Resfriado Suinco",
+      "Pernil Temperado Resfriado Suinco",
+      "File Mignon Temperado Resfriada Suinco",
+      "Linguiça Petisco Suinco",
+      "Esbein Joelho Suinco",
+      "Lombo Temperado Resfriado Suinco",
+      "Bacon Em Cubos Suinco",
+      "Bacon Suinco",
+      "Bacon Fatiado Suinco 500g",
+      "Costela Temperada Resfriada Suinco",
+      "Alcatra Temperada Resfriada Suinco"
+    ],
+    "original": [
+      "Acerola 1,02kg",
+      "Morango c/ Frutas Vermelhas 1,02kg",
+      "Morango c/ Amora 1,02kg",
+      "Morango 1,02kg",
+      "Blueberry 1,02kg",
+      "Amora 1,02kg",
+      "Framboesa 1,02kg"
+    ],
+    "itaja": [
+      "Açúcar Org Cristal 1Kg",
+      "Açúcar Org Cristal 500G",
+      "Açúcar Org Demerara 1Kg",
+      "Açúcar Org Cristal Light 500G"
+    ]
+  },
   "assai": {
     "suinco": [
       "Picanha Temperada Resfriada Suinco",
